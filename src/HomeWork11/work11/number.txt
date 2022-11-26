@@ -1,0 +1,4 @@
+The first number is 4.
+The second number is 5.
+The repeated number is 4 and 5.
+The sum of all the numbers is 18.
